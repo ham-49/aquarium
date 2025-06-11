@@ -2081,7 +2081,7 @@ footer .footer-inner .footer-top-wrap .address p.copy {
   background-color: rgba(0, 0, 0, 0);
   border: none;
   font-size: 22px;
-  font-family: $primary-kr; 
+  font-family: "SUIT", sans-serif;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
