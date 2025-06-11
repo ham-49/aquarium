@@ -46,4 +46,87 @@
             <p>Open Weather API(https://openweathermap.org/api/)</p>
         </div>
     </div>
-    
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 역할 분담 </h2> 
+        <div style="text-align: left;" "text-align: left;"> 
+        <div style="text-align: left;">
+            <h3 style="color: #282d33;"> 📢 팀원 & 역할 분담 </h3>
+        <h4>팀장 : 문현아</h4>
+            <ul>
+                <li>메인 페이지 : 날씨API, 오늘날짜표시 , program, review, footet</li>
+                <li>서브 서브페이지 : porgram (설명, 체험, 교육)</li>
+            </ul>
+        <h4>팀원 : 이지호</h4>
+            <ul>
+                <li>메인 페이지 : header, main-visual, sea creatures</li>
+                <li>서브 서브페이지 : sea creatures, ticket</li>
+            </ul>
+        <h4>팀원 : 조예진</h4>
+            <ul>
+                <li>메인 페이지 : event, news, directions</li>
+                <li>서브 서브페이지 : event, news</li>
+            </ul>
+        </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 페이지 주요 기능 </h2> 
+        <div style="text-align: left;" "text-align: left;"> 
+        <div style="text-align: left;">
+            <h3 style="color: #282d33;"> 메인페이지 </h3>
+            <h5>Header</h5>
+            <ul>
+                <li>온도, 오늘 날짜 실시간 반영</li>
+                <li>마우스 hover 시 이벤트, 서브 페이지로 이동</li>
+                <li>모바일 반응형 구간에서 변경되는 서브 메뉴 레이아웃</li>
+            </ul>
+            <h5>Main - program</h5>
+            <ul>
+                <li>마우스 hover 시 동영상 재생 및 서브 페이지 이동 가능</li>
+            </ul>
+            <h5>Main - event</h5>
+            <ul>
+                <li> 썸네일 사진 클릭 시 관련 자료로 이동, 서브페이지 이동 가능</li>
+            </ul>
+            <h5>Main - sea creatures</h5>
+            <ul>
+                <li> 지도 위치 아이콘 클릭 시 연관된 생물 정보 및 서브페이지 이동 가능 </li>
+            </ul>
+            <h5>Main - news</h5>
+            <ul>
+                <li> 데스크탑에서는 자동 재생, 반응형 구간에서는 리스트 형태로 표시되며 서브 페이지 이동 가능 </li>
+            </ul>
+            <h5>Main - directions</h5>
+            <ul>
+                <li> 구글 지도 위치 정보 반영 </li>
+            </ul>
+            <h5>Main - review</h5>
+            <ul>
+                <li> 데스크탑에서는 자동 재생, 반응형 구간에서는 드래그 기능을 사용하여 리뷰 확인이 가능하고 클릭 시 리뷰 내용 확인 가능 </li>
+            </ul>
+            <h3 style="color: #282d33;"> 서브 페이지 </h3>
+            <h5>sea creatures(전시생물소개)</h5>
+            <ul>
+                <li>층별 전시생물 구별 및 마우스 hover 시 동물 요약 소개 정보 표시</li>
+            </ul>
+            <h5>event(이벤트)</h5>
+            <ul>
+                <li>진행중인 이벤트, 종료된 이벤트표시 및 자세히 보기 hover시 이벤트 효과</li>
+            </ul>
+            <h5>program(설명, 체험, 교육 프로그램)</h5>
+            <ul>
+                <li>개인예약 : 버튼 클릭 시 팝업창 및 이전, 빈날짜 입력 시 경고창 발생</li>
+                <li>단체예약 : 버튼 클릭 시 팝업창 및 안내정보 표시</li>
+                <li>상세정보 : 숨겨진 상세정보 표시</li>
+            </ul>
+            <h5>news(공지사항)</h5>
+            <ul>
+                <li>리스트 hover 시 색상 변경</li>
+                <li>페이지 구분 및 한페이지 혹은 처음, 끝페이지 이동</li>
+            </ul>
+            <h5>ticket(온라인 예매)</h5>
+            <ul>
+                <li>요금 종류 태그 클릭 시 관련 정보 표시 및 반응형 구간에서 레이아웃 변경</li>
+            </ul>
+        </div>
+    </div>
+
