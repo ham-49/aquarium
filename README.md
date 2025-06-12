@@ -172,9 +172,13 @@
         <div style="text-align: left;" "text-align: left;"> 
         <div style="text-align: left;">
             <h3 style="color: #282d33;"> 📢 figma 시안 </h3>
-            [figma 시안](https://www.figma.com/file/cYRyXXyj2RU8S13r8s38OI/Plan-A?node-id=90-2) <br>
-            [기획서](https://docs.google.com/presentation/d/1vTG0JJkd84qfz4xTqQhuSxXUBTXuoIO8ciO7UXdLdVc/edit?usp=sharing)
+            figma 시안(https://www.figma.com/file/cYRyXXyj2RU8S13r8s38OI/Plan-A?node-id=90-2) <br>
+            기획서(https://docs.google.com/presentation/d/1vTG0JJkd84qfz4xTqQhuSxXUBTXuoIO8ciO7UXdLdVc/edit?usp=sharing)
         </div>
     </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ❗ 라이선스 </h2> 
+    <p>본 프로젝트는 비상업적 <strong>학습, 포트폴리오</strong>용으로 제작되었습니다.</p>
     </div>
 
