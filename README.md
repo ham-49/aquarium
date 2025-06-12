@@ -8,7 +8,7 @@
         <li> 프로젝트 정보</li>
         <li> 개발 환경 </li>
         <li> 역할 분담 </li>
-        <li> 페이지 주요기능</li>
+        <li> 페이지 구성 소개 및 주요 기능 </li>
         <li> 참고 자료 </li>
     </ol>
     </div>
@@ -69,11 +69,26 @@
         </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 페이지 주요 기능 </h2> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 페이지 구성 소개 및 주요 기능 </h2> 
         <div style="text-align: left;" "text-align: left;"> 
         <div style="text-align: left;">
-            <h3 style="color: #282d33;"> 메인페이지 </h3>
-            <h5>Header</h5>
+             <h3 style="color: #282d33;"> 메인페이지 전체 </h3>
+            <table>
+  <tr>
+    <td valign="top">
+      <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/메인페이지%20-%20기본.JPG?raw=true" alt="메인 이미지" width="200">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/메인페이지%20-%20테블릿.JPG?raw=true" alt="테블릿 이미지" width="200">
+    </td>
+    <td>
+      <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/메인페이지%20-%20모바일.JPG?raw=true" alt="모바일 이미지" width="200">
+    </td>
+  </tr>
+</table>
+            <h3 style="color: #282d33;"> 메인페이지 - 세부 </h3>
+            <h5>Header + main-visual</h5>
+            <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/메인비주얼,헤더.gif?raw=true" alt="헤더,메인비주얼" width="200">
             <ul>
                 <li>온도, 오늘 날짜 실시간 반영</li>
                 <li>마우스 hover 시 이벤트, 서브 페이지로 이동</li>
