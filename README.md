@@ -71,6 +71,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 페이지 구성 소개 및 주요 기능 </h2> 
         <div style="text-align: left;" "text-align: left;"> 
+            <h3 style="color: #282d33;"> 구성 : 메인페이지, 서브페이지 (7페이지 구성) </h3>
         <div style="text-align: left;">
              <h3 style="color: #282d33;"> 메인페이지 전체 </h3>
             <table>
