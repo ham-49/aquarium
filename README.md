@@ -124,7 +124,7 @@
             <ul>
                 <li> 데스크탑에서는 자동 재생, 반응형 구간에서는 드래그 기능을 사용하여 리뷰 확인이 가능하고 클릭 시 리뷰 내용 확인 가능 </li>
             </ul>
-            <h3 style="color: #282d33;"> 서브 페이지 </h3>
+            <h3 style="color: #282d33;"> 서브 페이지 - 세부 </h3>
             <h5>sub - sea creatures(전시생물소개)</h5>
             <img src="https://github.com/ham-49/aquarium/blob/main/readme-images/서브페이지%20전시생물%20소개.gif?raw=true" alt="전시생물 소개" width="700">
             <ul>
@@ -164,7 +164,7 @@
             <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
             <h4>✍사용 API</h4>
-            <p>Open Weather API(https://openweathermap.org/api/)</p>
+            <p>Open Weather API (https://openweathermap.org/api/)</p>
         </div>
     </div>
     <div style="text-align: left;">
@@ -172,8 +172,8 @@
         <div style="text-align: left;" "text-align: left;"> 
         <div style="text-align: left;">
             <h3 style="color: #282d33;"> 📢 figma 시안 </h3>
-            figma 시안(https://www.figma.com/file/cYRyXXyj2RU8S13r8s38OI/Plan-A?node-id=90-2) <br>
-            기획서(https://docs.google.com/presentation/d/1vTG0JJkd84qfz4xTqQhuSxXUBTXuoIO8ciO7UXdLdVc/edit?usp=sharing)
+            figma 시안 (https://www.figma.com/file/cYRyXXyj2RU8S13r8s38OI/Plan-A?node-id=90-2) <br>
+            기획서 (https://docs.google.com/presentation/d/1vTG0JJkd84qfz4xTqQhuSxXUBTXuoIO8ciO7UXdLdVc/edit?usp=sharing)
         </div>
     </div>
     </div>
