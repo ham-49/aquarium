@@ -179,6 +179,6 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 라이선스 </h2> 
-    <p>❗ 본 프로젝트는 비상업적 <strong>학습, 포트폴리오</strong>용으로 제작되었습니다.</p>
+    <p>❗ 본 프로젝트는 비상업적 <strong>학습, 포트폴리오</strong> 용도로 제작되었습니다.</p>
     </div>
 
