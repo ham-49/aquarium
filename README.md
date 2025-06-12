@@ -172,7 +172,7 @@
         <div style="text-align: left;" "text-align: left;"> 
         <div style="text-align: left;">
             <h3 style="color: #282d33;"> 📢 figma 시안 </h3>
-            (https://www.figma.com/design/cYRyXXyj2RU8S13r8s38OI/Plan-A?node-id=90-2&t=Zk0xYjn2bZWMJi9B-1)
+            [figam시안](https://www.figma.com/design/cYRyXXyj2RU8S13r8s38OI/Plan-A?node-id=90-2&m=dev&t=Zk0xYjn2bZWMJi9B-1)
         </div>
     </div>
     </div>
