@@ -156,18 +156,6 @@
             </ul>
         </div>
             <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발 환경 </h2> 
-        <div style="text-align: left;" "text-align: left;"> 
-        <div style="text-align: left;">
-            <h4>✍사용 기술</h4>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-            <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
-            <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-            <h4>✍사용 API</h4>
-            <p>Open Weather API (https://openweathermap.org/api/)</p>
-        </div>
-    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 참고자료 </h2> 
         <div style="text-align: left;" "text-align: left;"> 
